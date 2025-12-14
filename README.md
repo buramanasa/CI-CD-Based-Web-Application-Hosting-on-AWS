@@ -1,2 +1,17 @@
-# CI-CD-Based-Web-Application-Hosting-on-AWS
-CI/CD-based web application hosting on AWS using automated pipelines for build, test, and deployment. Integrates GitHub, Jenkins, Docker, and AWS services to ensure scalable, reliable, and continuous application delivery.
+# CI/CD Based Web Application Hosting on AWS
+## Description
+This project demonstrates automated deployment of a web application on AWS using
+Jenkins and Docker.
+## Tools Used
+- AWS EC2
+- Jenkins
+- Docker
+- GitHub
+## Workflow
+1. Code pushed to GitHub
+2. Jenkins pipeline triggered
+3. Docker image built
+4. Application deployed on EC2
+## How to Access
+Open browser and hit EC2 public IP
+
